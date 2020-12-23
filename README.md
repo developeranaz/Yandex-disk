@@ -1,10 +1,10 @@
 
 
-#Author:Anaz
+###Author:Anaz
 
 #Getting keys
 
-! wget -O YANDEX-DISK-KEY.GPG http://repo.yandex.ru/yandex-disk/YANDEX-DISK-KEY.GPG
+#! wget -O YANDEX-DISK-KEY.GPG http://repo.yandex.ru/yandex-disk/YANDEX-DISK-KEY.GPG
 
 #Adding Keys
 
